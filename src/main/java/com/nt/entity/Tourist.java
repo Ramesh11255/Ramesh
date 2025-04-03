@@ -39,4 +39,6 @@ public class Tourist {
 	private LocalDateTime startDate;
 
 	private LocalDateTime endDate;
+
+        System.outprintln("hi hello");
 }
